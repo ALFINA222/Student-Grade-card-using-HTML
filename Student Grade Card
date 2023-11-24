@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>grade card</title></head>
+        <body>
+            <h1 align="center">STUDENT GRADE CARD</h1>
+            <table border="2px" cellspacing="10" cellpadding="10">
+                <tr>
+                    <th >SCORE</th>
+                    <th>GRADE</th>
+                    <th>CGPA</th>
+                        <TR>
+                            <td>AML</td>
+                            <td>A</td>
+                            <td>9</td></TR>
+                            <TR>
+                                <td>BML</td>
+                                <td>A</td>
+                                <td>9</td></TR>
+                                <TR>
+                                    <td>CML</td>
+                                    <td>A</td>
+                                    <td>9.7</td></TR>
+                                    <TR>
+                                        <td>DML</td>
+                                        <td>A</td>
+                                        <td>9.8</td></TR>
+                                        <TR>
+                                            <td>EML</td>
+                                            <td>A</td>
+                                            <td>9.4</td></TR>
+                                        </tr>
+                                        <TR>
+                                            <td colspan="2">Total marks</td>
+                                            <td>result</td>
+                                          </TR>
+                                          </table>
+                                          </body>
+                                          </html>
+
+                        
+                   
+                    
+
